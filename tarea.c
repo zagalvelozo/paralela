@@ -26,7 +26,7 @@ int billetes(int sal)
     }
     else
     {
-        //printf("se puede retirar el monto");
+        printf("se puede retirar el monto");
         return 1;
     }
 }
