@@ -1,5 +1,9 @@
 # Control 4
-##Integrantes: Leonardo Aillapan - Diego Pino - Jesus Zagal
+
+Integrantes: 
+  - Leonardo Aillapan
+  - Diego Pino
+  - Jesus Zagal
 
 ## Introducción
 
