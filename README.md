@@ -1,4 +1,4 @@
-# Paralela
+# Computación Paralela 💻
 
 repositorio de trabajos de curso de computación paralela año 2018.
 
