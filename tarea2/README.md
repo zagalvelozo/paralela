@@ -1,1 +1,1 @@
-# Control01-Paralelas
+# Tarea 2 computación paralela
