@@ -1,8 +1,8 @@
 CC=gcc
 all: build
-build: 
+build:
       $(CC) main.c -o main
 run:
-     ./main
+    ./main
 clean:
       rm -rf *.o
