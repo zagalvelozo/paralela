@@ -1,6 +1,6 @@
 # Control 4
 
-Integrantes: 
+### Integrantes 
   - Leonardo Aillapan
   - Diego Pino
   - Jesus Zagal
@@ -15,12 +15,15 @@ make
 
 ## Ejecución
 
+```shell
 ./dist/programa -v
+```
 
 Muestra integrantes del grupo
 
-
+```shell
 ./dist/programa -f /tmp/prueba.txt
+```
 
 Inicia el programa, y cuando encuentre la clave se creará un .txt en la ruta agregada "/tmp/prueba.txt"
 
