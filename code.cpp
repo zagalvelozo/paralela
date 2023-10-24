@@ -1,3 +1,10 @@
+/**
+ * Sum number in an array  - C++ Program
+ *
+ * @package  Main
+ * @author   Jesus Zagal <zagalvelozo@gmail.com>
+ */
+
 #define _GLIBCXX_USE_C99 1
 #include <iostream>
 #include <string>    // std::string, std::stoi
