@@ -1,13 +1,15 @@
 /**
- * Hello World - A Simple C Program
+ * Printing Args - A Simple C Program
  *
- * @package  Hello World
+ * @package  Printing Args
  * @author   Jesus Zagal <zagalvelozo@gmail.com>
  */
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
 {
-    printf("Hello World!");
+    for (int i = 0; i < argc; i++) {
+        printf("%i %s \n", i, argv[i]);    
+    }
     return 0;
 }
