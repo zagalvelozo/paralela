@@ -1,26 +1,36 @@
 # Control 1 Computacion Paralela
 
-# Para compilar por consola use
+## Compilar por consola
+
+```bash
 g++ "nombre".cpp -o "nombre ejecutable"
+```
 
-Ejemplo:
+> Ejemplo:
 
+```bash
 g++ control1.cpp -o c1
+```
 
 
-# Para EJECUTAR por consola
 
+## EJECUTAR por consola
+
+```bash
 ./"nombre_ejecutable" -f "Codigo Estacion Inicial" "Codigo Estacion Final"
+```
 
-Ejemplo: 
+> Ejemplo: 
 
+```bash
 ./c1 -f CN NU
-
+```
 En caso de quere ver los nombres utilice
 
-./c1 -v CN NU
+```bash
+./c1 -v
+```
 
-
-#IMPORTANTE
+## IMPORTANTE
 
 El archivo Lineas.csv debe estar en la carpeta donde se encuentra el archivo .cpp y el ejecutable
