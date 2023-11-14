@@ -9,7 +9,7 @@ g++ "nombre".cpp -o "nombre ejecutable"
 > Ejemplo:
 
 ```bash
-g++ control1.cpp -o c1
+g++ control1.cpp -o metro
 ```
 
 
@@ -23,12 +23,12 @@ g++ control1.cpp -o c1
 > Ejemplo: 
 
 ```bash
-./c1 -f CN NU
+./metro -f CN NU
 ```
 En caso de quere ver los nombres utilice
 
 ```bash
-./c1 -v
+./metro -v
 ```
 
 ## IMPORTANTE
